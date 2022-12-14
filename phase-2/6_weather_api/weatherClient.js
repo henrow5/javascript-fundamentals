@@ -12,3 +12,9 @@ class WeatherClient {
 }
 
 module.exports = WeatherClient;
+
+// const client = new WeatherClient();
+
+// client.fetchWeatherData("London", (weatherData) => {
+//   console.log(weatherData);
+// });
